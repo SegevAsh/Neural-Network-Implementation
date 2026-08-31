@@ -3,4 +3,4 @@ Implementation of a neural network engine, used in this example to drive a virtu
 
 Unity engine used for rendering and collision detection.
 
-The neural network engine supports networks of any dimensions, using evolutionary training.
+The neural network engine supports networks of any dimensions, and uses evolutionary training.
